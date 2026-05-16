@@ -4,9 +4,9 @@ description: >-
   Flutter 3.x, Dart 3, null safety, AGP 8+, and Kotlin 1.9+.
 version: 1.0.0
 
-repository: https://github.com/YOUR_USERNAME/firebase_dynamic_links_fixed
-issue_tracker: https://github.com/YOUR_USERNAME/firebase_dynamic_links_fixed/issues
-homepage: https://github.com/YOUR_USERNAME/firebase_dynamic_links_fixed
+repository: https://github.com/ChaiwaT-Sun/firebase_dynamic_links_fixed
+issue_tracker: https://github.com/ChaiwaT-Sun/firebase_dynamic_links_fixed/issues
+homepage: https://github.com/ChaiwaT-Sun/firebase_dynamic_links_fixed
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
