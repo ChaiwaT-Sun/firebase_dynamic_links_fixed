@@ -16,7 +16,7 @@ links across multiple platforms. Migrated to firebase_core ^4.4.0, Flutter 3.x, 
   s.source_files     = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'Firebase/DynamicLinks', '~> 10.0'
+  s.dependency 'Firebase/DynamicLinks', '>= 10.0'
   s.ios.deployment_target = '12.0'
   s.static_framework = true
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
