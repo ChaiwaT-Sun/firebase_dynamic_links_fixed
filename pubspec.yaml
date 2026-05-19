@@ -2,7 +2,7 @@ name: firebase_dynamic_links_fixed
 description: >-
   Flutter plugin for Google Dynamic Links for Firebase. Supports firebase_core ^4.4.0,
   Flutter 3.x, Dart 3, null safety, AGP 8+, and Kotlin 1.9+.
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/ChaiwaT-Sun/firebase_dynamic_links_fixed
 issue_tracker: https://github.com/ChaiwaT-Sun/firebase_dynamic_links_fixed/issues

@@ -1,3 +1,7 @@
+## 1.0.1
+
+* **iOS** – Updated `Firebase/DynamicLinks` podspec dependency from `~> 10.0` to `>= 10.0` to support Firebase iOS SDK v11 and v12.
+
 ## 1.0.0
 
 * **Breaking** Renamed package to `firebase_dynamic_links_fixed`.

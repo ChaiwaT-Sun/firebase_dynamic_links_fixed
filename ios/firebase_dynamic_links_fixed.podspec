@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'firebase_dynamic_links_fixed'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Firebase Dynamic Links plugin for Flutter (migrated).'
   s.description      = <<-DESC
 Flutter plugin for Google Dynamic Links for Firebase, an app solution for creating and handling
