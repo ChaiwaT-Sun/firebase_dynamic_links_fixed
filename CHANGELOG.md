@@ -1,3 +1,7 @@
+## 1.0.2
+
+* **iOS** – Fixed `Firebase/DynamicLinks` dependency to `~> 12.0` to match `firebase_core ^4.4.0` which requires `Firebase/CoreOnly = 12.x`.
+
 ## 1.0.1
 
 * **iOS** – Updated `Firebase/DynamicLinks` podspec dependency from `~> 10.0` to `>= 10.0` to support Firebase iOS SDK v11 and v12.
